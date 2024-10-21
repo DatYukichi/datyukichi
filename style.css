@@ -40,13 +40,17 @@ body {
 
 
 #FOOT {
-    width: 1109px;
-    margin-left: 218px;
-	    background-image: -webkit-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    width: 1110px;
+    background-image: -webkit-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
     background-image: -moz-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
     background-image: -o-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
     background-image: linear-gradient(103deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    margin-left: 397px;
 }
+#FOOT img {
+    margin-left: 11px;
+}
+
 #textDEN {
     margin-left: 670px;
     margin-top: -41px;
