@@ -1,0 +1,54 @@
+@charset "utf-8";
+.container .row .col-xl-3 {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    background-image: -moz-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    background-image: -o-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    background-image: linear-gradient(103deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #1160B3;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #D91519;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #CAD511;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #E97B2F;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #2519C8;
+}
+#headingOne1 .mb-0 a {
+    color: #C82426;
+}
+#headingFour1 .mb-0 .collapsed {
+    color: #E08283;
+}
+body {
+    background-color: #00B84E;
+}
+
+
+
+
+
+
+
+
+#FOOT {
+    width: 1109px;
+    margin-left: 218px;
+	    background-image: -webkit-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    background-image: -moz-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    background-image: -o-linear-gradient(347deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+    background-image: linear-gradient(103deg,rgba(255,255,255,1.00) 0%,rgba(255,169,169,1.00) 25.39%,rgba(255,0,0,1.00) 54.40%,rgba(27,24,24,1.00) 100%);
+}
+#textDEN {
+    margin-left: 670px;
+    margin-top: -41px;
+    color: #FFFFFF;
+}
